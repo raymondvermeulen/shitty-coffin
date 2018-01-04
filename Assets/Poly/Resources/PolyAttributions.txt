@@ -1,0 +1,19 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Coffin
+Author: Poly by Google
+URL: https://poly.google.com/view/egmks2_joYD
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Cushion
+Author: Poly by Google
+URL: https://poly.google.com/view/5HGIMbKF6-0
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Modern rug
+Author: Poly by Google
+URL: https://poly.google.com/view/6acMdZwnCkQ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
